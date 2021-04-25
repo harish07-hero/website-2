@@ -1,0 +1,80 @@
+body{
+    text-align:center;
+}
+ 
+ 
+marquee{
+    background-color: coral;
+    text-decoration-color: cornflowerblue;
+    text-decoration: underline;
+}
+#video
+{
+    width:100%;
+    height:500px;
+    border:none;
+}
+  
+#map iframe
+{
+    width: 50%;
+    float: left;
+    padding-top: 5px;
+}
+ 
+#details img
+{
+   height:225px;
+    width:225px;
+    margin-left: 0px;
+    display:inline;
+}
+.row: :after{
+    clear: both;
+    display: table;
+}
+.travel_mai div{
+    float: left;
+    width: 33.33%;
+    padding: 5px;
+    border: 1px solid #c7c7c7;
+}
+.travel_maindiv img{
+    width: 100%;
+    height: 300px;
+    right: 500px;
+}
+.travel_main div hr{
+    width: 100%;
+}
+.travel_main div h5{
+    margin-left: 20px;
+}
+.travel_main div p{
+    margin-left: 20px;
+}
+h2{
+    text-align: center;
+}
+#achievementsId{
+    padding-bottom: 10px;
+    
+}
+.sa_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    display: inline-block;
+}
+.sa_head i{
+    float: right;
+}
+.sa_head span{
+    color: #ff7700;
+}
+.ul img{
+width: 70px;
+    height: 70px;
+}
